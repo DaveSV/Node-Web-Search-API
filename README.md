@@ -40,6 +40,7 @@ GET /
 Simple endpoint to verify API is running.
 
 ## Database Schema
+![Captura de pantalla 2025-01-22 212705](https://github.com/user-attachments/assets/74d188b6-0e72-4ac2-8a73-405c3c5df3f0)
 
 The application uses a `java_resources` table with the following structure:
 - `id`: UUID (Primary Key)
