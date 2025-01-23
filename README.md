@@ -1,4 +1,4 @@
-# Java Spring Search API
+# Node/Supabase Search API
 
 A Node.js REST API service that provides search functionality for Java and Spring-related learning resources using Supabase as the backend database.
 
