@@ -9,6 +9,7 @@ A Node.js REST API service that provides search functionality for Java and Sprin
 - RESTful API endpoints
 - Supabase integration for data storage
 - CORS enabled for cross-origin requests
+![Captura de pantalla 2025-01-22 212255](https://github.com/user-attachments/assets/9aaa9156-0331-4f9e-b29a-66c068af973d)
 
 ## API Endpoints
 
